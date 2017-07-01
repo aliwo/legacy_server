@@ -1,0 +1,25 @@
+{
+  "name": "Legacy",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.1",
+    "express": "3.2.6",
+    "express-error-handler": "^1.1.0",
+    "express-session": "^1.14.2",
+    "fcm-push": "^1.1.2",
+    "http": "0.0.0",
+    "jade": "*",
+    "mongodb": "^2.2.19",
+    "mongoose": "^4.7.6",
+    "multer": "^1.2.1",
+    "node-gcm": "^0.14.4",
+    "timer": "0.0.2",
+    "uuid": "^3.0.1"
+  }
+}
